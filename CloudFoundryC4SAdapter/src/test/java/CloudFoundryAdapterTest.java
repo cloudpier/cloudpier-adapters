@@ -37,8 +37,6 @@ public class CloudFoundryAdapterTest {
     public static String APP_NAME = "test_app";
     public static String DB_APP_NAME = "db-appteste1";
     public static String DB_NAME = "mysql-test";
-    //public static String USER = "davidgoncalvescunha@gmail.com";
-    //public static String PASS = "csb123qwe";
     public static String USER = "atos@atoscf.com";
     public static String PASS = "4to5cf";
 
