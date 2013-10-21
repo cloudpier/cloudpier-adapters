@@ -5,6 +5,8 @@ Cloud Pier Remote Adapters
 This Repository includes source code of Java implementations of some Remote Adapters used by Cloud Pier.
 This code is not being used directly from Cloud Pier Core and Cloud Pier UI. However the .war files that are created by building these standalone projects are used from Cloud Pier Core project in order to be deployed to each coresponding PaaS. 
 
+Find more information of our wiki: https://github.com/cloudpier/cloudpier-adapters/wiki
+
 # Current Adapters:
 ## BeanstalkAdapter
 Remote Adapter source code for AWS Elastic Beanstalk PaaS
